@@ -36,3 +36,25 @@
 - Exercício 033 - Maior e menor valores
 - Exercício 034 - Aumentos múltiplos
 - Exercício 035 - Analisando triângulos v.1.0
+- Exercício 036 - Aprovando empréstimos
+- Exercício 037 - Conversor de bases numéricas
+- Exercício 038 - Comparando números
+- Exercício 039 - Alistamento Militar
+- Exercício 040 - Aquele clássico da média
+- Exercício 041 - Classificando atletas
+- Exercício 042 - Analisando triângulos v.2.0
+- Exercício 043 - Índice de massa corporal
+- Exercício 044 - Gerenciador de pagamentos
+- Exercício 045 - GAME: Papel, pedra, tesoura
+- Exercício 046 - Contagem regressiva
+- Exercício 047 - Contagem de pares
+- Exercício 048 - Soma ímpares múltiplos de três
+- Exercício 049 - Tabuada v2.0
+- Exercício 050 - Soma dos pares
+- Exercício 051 - Progressão aritmética
+- Exercício 052 - Números primos
+- Exercício 053 - Detector de palíndromo
+- Exercício 054 - Grupo de maioridade
+- Exercício 055 - Maior e menor da sequência
+- Exercício 056 - Analisador completo
+-
