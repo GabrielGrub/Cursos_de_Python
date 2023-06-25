@@ -16,3 +16,23 @@
 - Exercício 013 - Reajuste salarial
 - Exercício 014 - Conversor de temperaturas
 - Exercício 015 - Aluguel de carros
+- Exercício 016 - Quebrando um número
+- Exercício 017 - Catetos e Hipotenusa
+- Exercício 018 - Seno, Cosseno e Tangente
+- Exercício 019 - Sorteando uma item na lista
+- Exercício 020 - Sorteando uma ordem na lista
+- Exercício 021 - Tocando um MP3
+- Exercício 022 - Analisador de Textos
+- Exercício 023 - Separando dígitos em um número
+- Exercício 024 - Verificando as primeiras letras de um texto
+- Exercício 025 - Procurando uma string em dentro de outra
+- Exercício 026 - Primeira e última ocorrêcia de uma string
+- Exercício 027 - Primeiro e último nome de uma pessoa
+- Exercício 028 - Jogo da adivinhação v.1.0
+- Exercício 029 - Radar eletrônico
+- Exercício 030 - Par ou ímpar?
+- Exercício 031 - Custo da viagem
+- Exercício 032 - Ano bissexto
+- Exercício 033 - Maior e menor valores
+- Exercício 034 - Aumentos múltiplos
+- Exercício 035 - Analisando triângulos v.1.0
