@@ -57,4 +57,16 @@
 - Exercício 054 - Grupo de maioridade
 - Exercício 055 - Maior e menor da sequência
 - Exercício 056 - Analisador completo
--
+- Exercício 057 - Validação de dados
+- Exercício 058 - Jogo da adivinhação v.2.0
+- Exercício 059 - Criando um menu de opções
+- Exercício 060 - Cálculo de fatorial
+- Exercício 061 - Progressão aritmética v.2.0
+- Exercício 062 - Progressão aritmética v.3.0
+- Exercício 063 - Sequência de Fibonacci v.1.0
+- Exercício 064 - Tratando vários valores v.1.0
+- Exercício 065 -
+- Exercício 066 -
+- Exercício 067 -
+- Exercício 068 -
+- Exercício 069 -
