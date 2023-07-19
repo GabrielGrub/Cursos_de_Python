@@ -28,21 +28,21 @@
 - Exercício 025 - Procurando uma string em dentro de outra
 - Exercício 026 - Primeira e última ocorrêcia de uma string
 - Exercício 027 - Primeiro e último nome de uma pessoa
-- Exercício 028 - Jogo da adivinhação v.1.0
+- Exercício 028 - Jogo da adivinhação v1.0
 - Exercício 029 - Radar eletrônico
 - Exercício 030 - Par ou ímpar?
 - Exercício 031 - Custo da viagem
 - Exercício 032 - Ano bissexto
 - Exercício 033 - Maior e menor valores
 - Exercício 034 - Aumentos múltiplos
-- Exercício 035 - Analisando triângulos v.1.0
+- Exercício 035 - Analisando triângulos v1.0
 - Exercício 036 - Aprovando empréstimos
 - Exercício 037 - Conversor de bases numéricas
 - Exercício 038 - Comparando números
 - Exercício 039 - Alistamento Militar
 - Exercício 040 - Aquele clássico da média
 - Exercício 041 - Classificando atletas
-- Exercício 042 - Analisando triângulos v.2.0
+- Exercício 042 - Analisando triângulos v2.0
 - Exercício 043 - Índice de massa corporal
 - Exercício 044 - Gerenciador de pagamentos
 - Exercício 045 - GAME: Papel, pedra, tesoura
@@ -58,15 +58,17 @@
 - Exercício 055 - Maior e menor da sequência
 - Exercício 056 - Analisador completo
 - Exercício 057 - Validação de dados
-- Exercício 058 - Jogo da adivinhação v.2.0
+- Exercício 058 - Jogo da adivinhação v2.0
 - Exercício 059 - Criando um menu de opções
 - Exercício 060 - Cálculo de fatorial
-- Exercício 061 - Progressão aritmética v.2.0
-- Exercício 062 - Progressão aritmética v.3.0
-- Exercício 063 - Sequência de Fibonacci v.1.0
-- Exercício 064 - Tratando vários valores v.1.0
-- Exercício 065 -
-- Exercício 066 -
-- Exercício 067 -
-- Exercício 068 -
-- Exercício 069 -
+- Exercício 061 - Progressão aritmética v2.0
+- Exercício 062 - Progressão aritmética v3.0
+- Exercício 063 - Sequência de Fibonacci v1.0
+- Exercício 064 - Tratando vários valores v1.0
+- Exercício 065 - Maior e menor valores
+- Exercício 066 - Vários números com flag
+- Exercício 067 - Tabuada v3.0
+- Exercício 068 - Jogo do Par ou Ímpar
+- Exercício 069 - Análise de dados do grupo
+- Exercício 070 - Estatística de produtos
+- Exercício 071 - Simulador de Caixa Eletrônico
