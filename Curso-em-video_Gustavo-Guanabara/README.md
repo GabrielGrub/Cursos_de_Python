@@ -72,3 +72,9 @@
 - Exercício 069 - Análise de dados do grupo
 - Exercício 070 - Estatística de produtos
 - Exercício 071 - Simulador de Caixa Eletrônico
+- Exercício 072 - Número por extenso
+- Exercício 073 - Tuplas com times de futebol
+- Exercício 074 - Maior e menor valores em tuplas
+- Exercício 075 - Ánalise de dados de uma Tupla
+- Exercício 076 - Lista de preços com Tuplas
+- Exercício 077 - Contando vogais em tuplas
