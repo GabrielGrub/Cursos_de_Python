@@ -78,3 +78,9 @@
 - Exercício 075 - Ánalise de dados de uma Tupla
 - Exercício 076 - Lista de preços com Tuplas
 - Exercício 077 - Contando vogais em tuplas
+- Exercício 078 - Maior e menor valores na lista
+- Exercício 079 - Valores únicos em uma lista
+- Exercício 080 - Lista ordenada sem repetição
+- Exercício 081 - Extraindo dados de uma lista
+- Exercício 082 - Dividindo valores em várias listas
+- Exercício 083 - Validando expressões matemáticas
