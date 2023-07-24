@@ -84,3 +84,9 @@
 - Exercício 081 - Extraindo dados de uma lista
 - Exercício 082 - Dividindo valores em várias listas
 - Exercício 083 - Validando expressões matemáticas
+- Exercício 084 - Lista composta e análise de dados
+- Exercício 085 - Lista com pares e ímpares
+- Exercício 086 - Matriz em Python
+- Exercício 087 - Mais sobre matriz em Python
+- Exercício 088 - Palpites para a MEGA SENA
+- Exercício 089 - Boletim com listas compostas
