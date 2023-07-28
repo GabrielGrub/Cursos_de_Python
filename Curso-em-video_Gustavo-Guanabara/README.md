@@ -90,3 +90,9 @@
 - Exercício 087 - Mais sobre matriz em Python
 - Exercício 088 - Palpites para a MEGA SENA
 - Exercício 089 - Boletim com listas compostas
+- Exercício 090 - Dicionários em Python
+- Exercício 091 - Jogo de dados em Python
+- Exercício 092 - Cadastro de trabalhador em Python
+- Exercício 093 - Cadastro de jogador de futebol
+- Exercício 094 - Unindo dicionários e listas
+- Exercício 095 - Aprimorando os dicionários
